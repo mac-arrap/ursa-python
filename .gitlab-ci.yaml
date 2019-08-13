@@ -1,7 +1,4 @@
-ubuntu-ursa-master:
-  stages: 
-    test
-    build
+image: ubuntu-ursa-master
  
 test:
   stage: test
